@@ -1,4 +1,4 @@
-# tidb-workshop
+# A TiDB Workshop
 
 ## 目录
 [1. 目标简介](#1-目标简介)  
