@@ -27,5 +27,7 @@ https://pingcap.com/blog-cn/tidb-internal-3/
 
 ## 3. 交付文档
 学习笔记（DOC文档），请参见[TiDB学习笔记](https://github.com/zhctotti10/tidb-workshop)
+
 测试方案文档（DOC文档），请参见[测试方案文档](https://github.com/zhctotti10/tidb-workshop)
+
 详细的测试用例（XMind文档），请参见[详细的测试用例](https://github.com/zhctotti10/tidb-workshop)
