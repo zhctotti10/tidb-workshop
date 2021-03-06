@@ -23,11 +23,13 @@
 
 然后花费大约一天时间整理并输出测试方案文档。
 
-最后，大概花费一天时间，设计出尽量详细的测试用例（标题）。
+最后，大概花费一天时间，生成测试用例（仅包含标题），并对测试用例进行归类整理得到最终的测试用例集（暂不填写预置条件和执行步骤）。
 
 ## 3. 交付文档
-学习笔记（DOC文档），请参见[TiDB学习笔记](https://github.com/zhctotti10/tidb-workshop)
+学习笔记（DOC文档），请参见[TiDB学习笔记](https://github.com/zhctotti10/tidb-workshop/tree/master/docs)
 
-测试方案文档（DOC文档），请参见[测试方案文档](https://github.com/zhctotti10/tidb-workshop)
+测试方案文档（DOC文档），请参见[Range分区-测试方案.docx](https://github.com/zhctotti10/tidb-workshop/tree/master/docs)
 
-详细的测试用例（XMind文档），请参见[详细的测试用例](https://github.com/zhctotti10/tidb-workshop)
+根据测试方案，生成的测试用例（XMind文档），请参见[Range分区-测试用例.xmind](https://github.com/zhctotti10/tidb-workshop/tree/master/docs)
+
+最终的测试用例集（EXCEL文档），请参见[Range分区-最终测试用例集.xlsx](https://github.com/zhctotti10/tidb-workshop/tree/master/docs)
